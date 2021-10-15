@@ -42,4 +42,4 @@ Use the groupby function on the mean of the following columns :.
 
 14: Explore the age column using a histogram and note down your observations.
 
- 15: Split your train and test dataset and train on the data.
+ 15: Split your train and test dataset and train on the data. 
